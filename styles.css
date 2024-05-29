@@ -92,6 +92,9 @@ h3 {
   margin-bottom: 0.75rem;
   font-family: var(--ff-primary);
 }
+h4 {
+  color : #444;
+}
 h1 {
   font-size: 3rem;
 }
